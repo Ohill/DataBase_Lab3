@@ -1,0 +1,22 @@
+<root>
+<parent>
+    <Site_id>1</Site_id>
+    <Site_Name>Rainbow</Site_Name>
+    <Site_Category_id>Landing</Site_Category_id>
+</parent>
+<parent>
+    <Site_id>2</Site_id>
+    <Site_Name>Facebook</Site_Name>
+    <Site_Category_id>Social Network</Site_Category_id>
+</parent>
+<parent>
+    <Site_id>3</Site_id>
+    <Site_Name>Caramba</Site_Name>
+    <Site_Category_id>Blog</Site_Category_id>
+</parent>
+<parent>
+    <Site_id>4</Site_id>
+    <Site_Name>Wikipedia</Site_Name>
+    <Site_Category_id>Informations</Site_Category_id>
+</parent>
+</root>

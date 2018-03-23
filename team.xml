@@ -1,0 +1,26 @@
+<root>
+<parent>
+    <Team_id>3</Team_id>
+    <Team_Name>Black Army</Team_Name>
+    <Characters>Very low level of programming in this team</Characters>
+    <Country_id>USA</Country_id>
+</parent>
+<parent>
+    <Team_id>1</Team_id>
+    <Team_Name>Progy Pro</Team_Name>
+    <Characters>Very nice team from Ukraine</Characters>
+    <Country_id>Ukraine</Country_id>
+</parent>
+<parent>
+    <Team_id>2</Team_id>
+    <Team_Name>ONYX</Team_Name>
+    <Characters>Team specialized on API, operating systems. Languages : C#, C++, PHP, JS</Characters>
+    <Country_id>USA</Country_id>
+</parent>
+<parent>
+    <Team_id>4</Team_id>
+    <Team_Name>DEPHTROATH</Team_Name>
+    <Characters>Team specialized on API, operating systems. Languages : C#, C++, PHP, JS</Characters>
+    <Country_id>Australia</Country_id>
+</parent>
+</root>

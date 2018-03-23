@@ -1,0 +1,18 @@
+<root>
+<parent>
+    <Customer_id>1</Customer_id>
+    <Customer_Name>Smoth Jake</Customer_Name>
+</parent>
+<parent>
+    <Customer_id>2</Customer_id>
+    <Customer_Name>Goodman John</Customer_Name>
+</parent>
+<parent>
+    <Customer_id>3</Customer_id>
+    <Customer_Name>Gordon Yurii</Customer_Name>
+</parent>
+<parent>
+    <Customer_id>4</Customer_id>
+    <Customer_Name>Hooke Ithan</Customer_Name>
+</parent>
+</root>
